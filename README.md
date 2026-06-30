@@ -1,8 +1,11 @@
 # BuildX-Analytics-Hibamp
 ## Dataset
 **Theme:** Food and Lifestyle
+
 **Dataset used:** Zomato Restaurants
+
 **Source:** https://www.kaggle.com/datasets/abhijitdahatonde/zomato-restaurants-dataset
+
 **Reason for choosing:** Restaurant data is easy to relate to and intuitive to analyze without needing domain expertise, making it ideal for exploring real business questions around pricing, ratings, and cuisine trends.
 ## Questions I Answered
 1. Which restaurants in a specific area have a rating above 4.0? (area, rate_out_of_5)
